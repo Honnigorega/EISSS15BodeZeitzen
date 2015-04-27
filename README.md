@@ -1,6 +1,6 @@
 # EISSS15BodeZeitzen
 
-<div style="background-color:lightgreen">
+<div style="background-color:lightgreen;">
 
 Dies ist das Repository des Projektes zu dem Modul "Entwicklung interaktiver Systeme" von Luca Zeitzen und Hendrik Bode.  
 
