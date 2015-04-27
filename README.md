@@ -1,7 +1,5 @@
 # EISSS15BodeZeitzen
 
-<div style="background-color:lightgreen; width:100%; height:700px;">
-
 Dies ist das Repository des Projektes zu dem Modul "Entwicklung interaktiver Systeme" von Luca Zeitzen und Hendrik Bode.  
 
 <ul>
@@ -13,5 +11,3 @@ Dies ist das Repository des Projektes zu dem Modul "Entwicklung interaktiver Sys
 <li><a href="https://github.com/Honnigorega/EISSS15BodeZeitzen/blob/master/MS2/Zielhierarchie.pdf">Zielhierarchie</a></li>
 <li><a href="https://github.com/Honnigorega/EISSS15BodeZeitzen/blob/master/MS2/Related-Works.pdf">Related-Works</a></li>
 </ul>
-
-</div>
