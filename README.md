@@ -4,11 +4,10 @@ Dies ist das Repository des Projektes zu dem Modul "Entwicklung interaktiver Sys
 
 <ul>
 ## MS1
-<li>[Exposé](https://github.com/Honnigorega/EISSS15BodeZeitzen/blob/master/MS1/Expose_gemeinsames_Lernen.pdf)</li>              
-</ul>
+<li><a href="https://github.com/Honnigorega/EISSS15BodeZeitzen/blob/master/MS1/Expose_gemeinsames_Lernen.pdf">Exposé</a></li>   </ul>
 
 <ul>
 ## MS2
-<li>[Zielhierarchie](https://github.com/Honnigorega/EISSS15BodeZeitzen/blob/master/MS2/Zielhierarchie.pdf)</li>               
-<li>[Related-Works](https://github.com/Honnigorega/EISSS15BodeZeitzen/blob/master/MS2/Related-Works.pdf)</li>
+<li><a href="https://github.com/Honnigorega/EISSS15BodeZeitzen/blob/master/MS2/Zielhierarchie.pdf">Zielhierarchie</a></li>
+<li><a href="https://github.com/Honnigorega/EISSS15BodeZeitzen/blob/master/MS2/Related-Works.pdf">Related-Works</a></li>
 </ul>
